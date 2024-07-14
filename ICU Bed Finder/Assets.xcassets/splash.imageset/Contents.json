@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "hospital-scene-with-sick-patient-bed-white-background_1308-42296.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
