@@ -55,6 +55,10 @@ This application is build on macOS Catalina (10.15). The application supports IO
 
 ![Your paragraph text-5](https://github.com/user-attachments/assets/8bb85cef-a953-4b1c-a455-dda99b01979b)
 
+
+## Before running the code:
+The API Key has been removed for privacy and security reasons. Make sure you use your API key in the required place.
+
 ## Project Partners
 
 - Hasibul Islam
